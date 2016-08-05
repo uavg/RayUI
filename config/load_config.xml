@@ -1,0 +1,6 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">	
+	<Script file="defaults.lua"/>
+	<Script file="addons.lua"/>
+    <Script file="filters\raid.lua"/>
+    <Script file="filters\unitframes.lua"/>
+</Ui>

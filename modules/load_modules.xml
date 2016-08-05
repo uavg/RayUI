@@ -1,0 +1,7 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">	
+	<Include file="skins\load_skins.xml"/>
+	<Include file="unitframes\load_unitframes.xml"/>
+	<Include file="raid\load_raid.xml"/>
+	<Include file="nameplates\load_nameplates.xml"/>
+	<Include file="tooltip\load_tooltip.xml"/>
+</Ui>
